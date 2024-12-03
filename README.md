@@ -64,7 +64,28 @@
 <h3>🐾 Relatórios SQL para Petshops</h3>
 <p>Scripts DQL (JOINs) para criar relatórios detalhados de um mini-mundo fictício de um petshop, permitindo insights de dados eficientes.</p>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jordyarlego&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jordyarlego&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=jordyarlego&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jordyarlego&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/jordyarlego/count.svg?"  />
+</div>
+
+###
+
+<img align="right" height="200" src="https://i.pinimg.com/originals/70/25/0a/70250a04f6804b7ac3d6c75f10ba0e4a.gif"  />
+
+###
+
+
+
+###
 
 <h2>🎯 Meus Objetivos</h2>
 <ul>
