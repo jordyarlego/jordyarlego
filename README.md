@@ -4,6 +4,10 @@
   🌟 Bem-vindo(a) ao meu espaço no GitHub! Aqui você encontrará projetos que refletem minha jornada em Análise e Desenvolvimento de Sistemas, habilidades em programação e paixão por aprender tecnologias emergentes.
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Coding GIF" width="400">
+</p>
+
 ---
 
 <h2>🚀 Sobre mim</h2>
@@ -18,19 +22,20 @@
 ---
 
 <h2>🛠️ Habilidades e Ferramentas</h2>
+
 <h3>🎯 Linguagens:</h3>
-<ul>
-  <li>🐍 Python</li>
-  <li>📜 JavaScript</li>
-  <li>🖋️ SQL</li>
-</ul>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+</p>
 
 <h3>🎯 Frameworks e Ferramentas:</h3>
-<ul>
-  <li>React | JSON Server | Google Maps API</li>
-  <li>MySQL Workbench | DDL e DML</li>
-  <li>Git e GitHub para controle de versão</li>
-</ul>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
 
 <h3>🎯 Metodologias:</h3>
 <ul>
@@ -47,11 +52,17 @@
 ---
 
 <h2>📂 Projetos em Destaque</h2>
-<ul>
-  <li>🌟 <a href="https://github.com/seu-perfil/revallo"><strong>Revallo</strong></a>: Um aplicativo para vendas de roupas com falhas e alimentos próximos à validade, promovendo economia e logística eficiente.</li>
-  <li>📌 <strong>Sistema de Batimento de Ponto:</strong> Integração de <strong>Google Maps API</strong> para localização precisa de usuários (em desenvolvimento).</li>
-  <li>🐾 <strong>Relatórios SQL para Petshops:</strong> Scripts DQL (JOINs) para análise detalhada do mini-mundo de um petshop.</li>
-</ul>
+
+<h3>🌟 Revallo</h3>
+<p>
+  Revallo é um aplicativo que conecta vendedores e compradores para comercializar <strong>roupas com falhas</strong> e <strong>alimentos próximos à validade</strong>. Além disso, ajuda a otimizar a logística para pequenos e médios negócios. Um projeto que une sustentabilidade e economia para transformar o consumo!
+</p>
+
+<h3>📌 Sistema de Batimento de Ponto</h3>
+<p>Um sistema integrado que utiliza a <strong>Google Maps API</strong> para validar a localização exata do usuário no momento da marcação de ponto. (Em desenvolvimento)</p>
+
+<h3>🐾 Relatórios SQL para Petshops</h3>
+<p>Scripts DQL (JOINs) para criar relatórios detalhados de um mini-mundo fictício de um petshop, permitindo insights de dados eficientes.</p>
 
 ---
 
@@ -66,9 +77,8 @@
 
 <h2>📬 Vamos nos conectar?</h2>
 <p>
-  📧 <strong>E-mail:</strong> jordy@example.com<br>
-  🌐 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/seu-perfil">linkedin.com/in/jordy</a><br>
-  🐦 <strong>Twitter:</strong> <a href="https://twitter.com/seu-perfil">@jordy_dev</a>
+  📧 <strong>E-mail:</strong> jordyarlego@gmail.com <br>
+  🌐 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/jordy-arlego-82694b2b8/">linkedin.com/in/jordy</a>
 </p>
 
 <p align="center">✨ Obrigado por visitar meu perfil! Se gostou, deixe uma ⭐ em algum projeto. 😉</p>
