@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/2d/d0/24/2dd02425d2200f73204cb4824b1bff2d.gif" alt="Coding GIF" width="400">
+  <img src="https://i.pinimg.com/originals/61/90/b5/6190b541579ccdce26c4957664000c88.gif" alt="Coding GIF" width="400">
 </p>
 
 ---
